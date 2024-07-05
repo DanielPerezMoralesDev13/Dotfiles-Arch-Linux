@@ -113,7 +113,7 @@ xrandr --output eDP-1 --primary --mode 1920x1080 --output HDMI-1 --mode 1920x108
 
 - *Para facilitar la configuración de múltiples monitores, puedes instalar `arandr`, una herramienta gráfica que proporciona una interfaz amigable para gestionar las pantallas.*
 
-```sh
+```bash
 sudo pacman -Syu arandr
 ```
 
