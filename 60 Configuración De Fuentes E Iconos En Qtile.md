@@ -20,10 +20,10 @@
 
 **Aquí están los iconos seleccionados:**
 
-- **Web:** *`nf-md-web` → 󰖟*
-- **Code:** *`nf-fa-code` → *
-- **Terminal:** *`nf-oct-terminal` → *
-- **Misc:** *`nf-md-cube_outline` → 󰆧*
+- **Web:** *`nf-md-web` → 󰖟 -> f059f*
+- **Code:** *`nf-fa-code` →  -> f121*
+- **Terminal:** *`nf-oct-terminal` →  -> f489*
+- **Misc:** *`nf-md-cube_outline` → 󰆧 -> f01a7*
 
 ```python
 # Se sobreescribió

@@ -136,7 +136,7 @@ sudo pacman -Syu arandr
 
 ### ***arandr***
 
-- **Repositorio GitHub:** *[arandr](https://github.com/chrysn/arandr)*
-- **Página oficial en Arch Linux:** *[arandr](https://archlinux.org/packages/community/any/arandr/)*
+- **Repositorio GitHub:** *[arandr](https://github.com/chrysn/arandr "https://github.com/chrysn/arandr")*
+- **Página oficial en Arch Linux:** *[arandr](https://archlinux.org/packages/community/any/arandr/ "https://archlinux.org/packages/community/any/arandr/")*
 
 - *Estas páginas te proporcionarán la información necesaria para obtener los binarios y acceder a la documentación oficial.*
