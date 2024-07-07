@@ -9,6 +9,10 @@
 - *[Documentacion](https://alacritty.org/config-alacritty.html "https://alacritty.org/config-alacritty.html")*
 
 ```toml
+# Autor: Daniel Benjamin Perez Morales
+# GitHub: https://github.com/DanielPerezMoralesDev13
+# Correo electrónico: danielperezdev@proton.me
+
 [window]
 opacity = 0.9
 padding = { x = 5, y = 5 }
